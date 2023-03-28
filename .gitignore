@@ -1,0 +1,6 @@
+
+db.sqlite3
+manage.py
+__pycache__
+.env
+secret.py
